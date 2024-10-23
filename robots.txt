@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://CamilloH.github.io/al-folio/sitemap.xml
+Sitemap: https://CamilloH.github.io/sitemap.xml
